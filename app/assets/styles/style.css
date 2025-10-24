@@ -1,0 +1,20 @@
+@import '../styles/zero.css';
+@import '../styles/variables.css';
+
+*{
+    font-family: 'Montserrat', sans-serif;
+    color: #5D6973;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.wrapper{
+    width: 1280px;
+}
+
+.section-title{
+    font-size: 48px;
+    font-weight: 600;
+}

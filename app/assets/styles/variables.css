@@ -1,0 +1,37 @@
+:root {
+  /* Main colors */
+  --p-color: #bdd3e4;
+  --p-mid-color: #aec1cf;
+  --p-dark-color: #5D6973;
+  --p-dark-color-h: #9fb3c3;
+  --p-white-color: #ffffff;
+
+  /* Button colors */
+  --p-button: #aec1cf;
+  --p-button-hover: #bcd0df;
+
+  /* Text colors */
+  --p-dark-text: #5d6973;
+  --p-dark-text-h: #9fb3c3;
+  --p-light-text: #ffffff;
+  --p-light-text-h: #d0d0d0;
+
+  /* Border radius */
+  --r-min: 6px;
+  --r-mid: 8px;
+  --r-max: 10px;
+
+  /* Headers size */
+  --h1: 64px;
+  --h2: 48px;
+  --h3: 32px;
+  --h4: 20px;
+
+  /* Text size */
+  --text-xs: 14px;
+  --text-s: 16px;
+  --text-sm: 18px;
+  --text-m: 21px;
+  --text-l: 24px;
+  --text-xl: 28px;
+}
