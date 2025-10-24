@@ -1,0 +1,106 @@
+{
+  "dialogSuccess": {
+    "title": "Message sent",
+    "subtitle": "Thank you for choosing us!",
+    "text": "Our specialist will contact you shortly. The email will be sent to the email you provided."
+  },
+  "dialogError": {
+    "title": "Error sending",
+    "subTitle": "We are very sorry!",
+    "text": "Please check your internet connection and try again."
+  },
+  "navAnchor": {
+    "nav1": "Order now",
+    "nav2": "Contacts"
+  },
+  "navPages": {
+    "nav1": "About us",
+    "nav2": "Home"
+  },
+  "warn": {
+    "name": "Incorrect name!",
+    "email": "Incorrect email!",
+    "option": "Option must be selected!"
+  },
+  "opt": {
+    "opt1": "Select a service",
+    "opt2": "Business card website",
+    "opt3": "Online store",
+    "opt4": "Corporate website",
+    "opt5": "Website improvement",
+    "opt6": "Need a consultation"
+  },
+  "placeholder": {
+    "plc1": "Enter your name",
+    "plc2": "Something else",
+    "plc3": "language"
+  },
+  "title": {
+    "title1_p1": "Bring your",
+    "title1_p2": "business online",
+    "title2": "Website development and digital solutions for entrepreneurs",
+    "title3": "Our products",
+    "title4_p1": "Who needs",
+    "title4_p2": "a website?",
+    "title5_p1": "Benefits of",
+    "title5_p2": "a personal website",
+    "title6": "Leave a request!",
+    "title7_p1": "What are we ready",
+    "title7_p2": "to offer?"
+  },
+  "take": {
+    "take1": "Are you losing customers without a modern website?",
+    "take2": "We'll help you quickly get online and increase sales."
+  },
+  "button": {
+    "start": "Let's get started!",
+    "order": "Order",
+    "send": "Send",
+    "ok": "Ok",
+    "close": "Close"
+  },
+  "link": {
+    "privacy": "Privacy Policy",
+    "personalData": "Processing of personal data"
+  },
+  "card": {
+    "title1": "Shops, restaurants, hotels",
+    "text1": "A small website is your effective online storefront. Customers can browse your selection or menu and easily contact you to place an order or reserve a table. All without the overhead of complex systems. Why pay extra for bookings when customers can find you directly online or through social media?",
+    "title2": "Small and medium-sized businesses",
+    "text2": "An ideal start for a business that hasn't yet gone online. You get your own website to promote your services and products, and your customers have a convenient channel for choosing and communicating. This allows you to increase sales and reduce the time it takes to process requests. Without complicated systems, requests can be processed even via email or online spreadsheets.",
+    "title3": "Private specialists and services",
+    "text3": "A simple yet professional website for attracting new clients. Here you can detail your background and services, showcase your portfolio, and provide contact information for a quick call or request. Your services become more accessible, and your potential clients will find you even faster!"
+  },
+  "lcard": {
+    "title1": "More clients",
+    "text1": "Even your local clients may not know you, but they can always find you online!",
+    "title2": "Revenue growth",
+    "text2": "The more clients you have, the more income your business generates, don't miss this opportunity!",
+    "title3": "Controllable expenses",
+    "text3": "Promote your products through your website, and avoid advertising on dubious resources!",
+    "title4": "Automation",
+    "text4": "While you are busy with important issues, your website “brings” clients.",
+    "title5": "Convenient for you and your clients",
+    "text5": "Now customers don't need to come “just to look&”, they know what they want - you know what to offer."
+  },
+  "productCard": {
+    "title1": "Business card website",
+    "text1": "Need a personal website to promote yourself or your products? This option is for you, with a quick launch and easy start.",
+    "title2": "Small online store",
+    "text2": "Do you already have an established product range? Then you definitely need a web storefront! Your customers can purchase products directly from your website, without having to visit in person.",
+    "title3": "Corporate website",
+    "text3": "Does your company want to tell its potential clients and partners more about itself? This option is suitable even if you already have a website but want to completely redesign it.",
+    "title4": "Refining and developing your website",
+    "text4": "If you already have a website that requires development or refinement, we can help. We'll discuss and implement new functionality or a website redesign from scratch."
+  },
+  "advCard": {
+    "title1": "Solutions for real-world problems",
+    "text1": "We don't push complex features; we create a simple, easy-to-use website tailored specifically to your needs, so you can launch it quickly, set up advertising, and start attracting clients!",
+    "title2": "Adaptation for mobile devices",
+    "text2": "The website automatically adapts to any screen—phones, tablets, and computers. Clients can quickly find information and contact you from any device, enhancing convenience and efficiency.",
+    "title3": "SEO and promotion",
+    "text3": "We help your website show up in search results so that you attract the people who actually want to buy or order your service or product. Effective SEO is a crucial criterion for a modern website.",
+    "title4": "Online support",
+    "text4": "Rest assured that you have a team behind you: we'll help you navigate your website and answer your questions so you can easily manage your resource."
+  }
+}

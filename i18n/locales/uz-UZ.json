@@ -1,0 +1,106 @@
+{
+  "dialogSuccess": {
+    "title": "Ariza yuborildi",
+    "subtitle": "Bizni tanlaganingiz uchun tashakkur!",
+    "text": "Bizning mutaxassisimiz tez orada siz bilan bog'lanadi. Xat siz ko'rsatgan pochtaga keladi."
+  },
+  "dialogError": {
+    "title": "Yuborish xatosi",
+    "subTitle": "Kechirasiz!",
+    "text": "Internet aloqangizni tekshiring va qaytadan urining"
+  },
+  "navAnchor": {
+    "nav1": "Buyurtma",
+    "nav2": "Kontaktlar"
+  },
+  "navPages": {
+    "nav1": "Bosh sahifa",
+    "nav2": "Home"
+  },
+  "warn": {
+    "name": "Noto'g'ri ism!",
+    "email": "Noto'g'ri elektron pochta!",
+    "option": "Variantni tanlash kerak!"
+  },
+  "opt": {
+    "opt1": "Xizmatni tanlang",
+    "opt2": "Vizitka sayti",
+    "opt3": "Onlayn do'kon",
+    "opt4": "Korporativ veb-sayt",
+    "opt5": "Saytni takomillashtirish",
+    "opt6": "Maslahat kerak"
+  },
+  "placeholder": {
+    "plc1": "Ismni kiriting",
+    "plc2": "Что-то еще",
+    "plc3": "Til"
+  },
+  "title": {
+    "title1_p1": "Biznesingizni",
+    "title1_p2": "onlayn o'tkazing",
+    "title2": "Tadbirkorlar uchun veb-saytlar va raqamli yechimlarni ishlab chiqish",
+    "title3": "Bizning mahsulotlarimiz",
+    "title4_p1": "Va veb-sayt",
+    "title4_p2": "kimga kerak?",
+    "title5_p1": "Shaxsiy",
+    "title5_p2": "veb-saytning afzalliklari",
+    "title6": "So'rov qoldiring!",
+    "title7_p1": "Biz nimani taklif",
+    "title7_p2": "qilishga tayyormiz?"
+  },
+  "take": {
+    "take1": "Zamonaviy veb-saytsiz mijozlarni yo'qotyapsizmi?",
+    "take2": "Biz sizga tezda onlayn bo'lishingizga va savdoni oshirishga yordam beramiz"
+  },
+  "button": {
+    "start": "Men boshlamoqchiman!",
+    "order": "Buyurtma",
+    "send": "Yuborish",
+    "ok": "Yaxshi",
+    "close": "Yopish"
+  },
+  "link": {
+    "privacy": "Maxfiylik siyosati",
+    "personalData": "Shaxsiy ma'lumotlarni qayta ishlash"
+  },
+  "card": {
+    "title1": "Do'konlar, restoranlar, mehmonxonalar",
+    "text1": "Kichik sayt sizning samarali onlayn vitrinangizdir. Mijozlar assortiment yoki menyu bilan tanishadilar va buyurtma berish yoki bron qilish uchun siz bilan osongina bog'lanishadi. Hammasi murakkab tizimlar uchun keraksiz xarajatlarsiz. Agar mijoz sizni to'g'ridan-to'g'ri Internet yoki ijtimoiy tarmoqlar orqali topsa, nima uchun bukingga yana bir bor to'lash kerak.",
+    "title2": "Kichik va o'rta biznes",
+    "text2": "Hali internetga kirmagan biznes uchun mukammal boshlanish. Siz xizmatlar va tovarlarni reklama qilish uchun o'z veb - saytingizni olasiz va mijozlar tanlash va aloqa qilish uchun qulay kanaldir. Bu sizga sotishni ko'paytirish va arizalarni ko'rib chiqish vaqtini qisqartirish imkonini beradi. Hech qanday murakkab tizimlar mavjud emas, arizalarni hatto elektron pochta orqali ham ko'rib chiqish mumkin Lii onlayn jadvallar.",
+    "title3": "Xususiy mutaxassislar va xizmatlar",
+    "text3": "O'zingiz va xizmatlaringiz haqida batafsil ma'lumot berish, portfelingizni ko'rsatish va tezkor qo'ng'iroq yoki ariza uchun aloqa ma'lumotlarini taqdim etish uchun yangi mijozlarni jalb qilish uchun oddiy, ammo professional sayt. Sizning xizmatlaringiz yanada qulayroq bo'ladi va potentsial mijozlaringiz sizni tezroq topishlari mumkin!"
+  },
+  "lcard": {
+    "title1": "Ko'proq mijozlar",
+    "text1": "Hatto sizga yaqin bo'lgan mijozlar ham siz haqingizda bilmasligi mumkin. Ammo ular sizni har doim internetda topadilar!",
+    "title2": "Daromadlarning o'sishi",
+    "text2": "Mijozlar qancha ko'p bo'lsa, sizning biznesingiz shunchalik ko'p daromad keltiradi, bu imkoniyatni boy bermang!",
+    "title3": "Nazorat qilinadigan xarajatlar",
+    "text3": "Mahsulotlaringizni sayt orqali targ'ib qiling, shubhali resusrlarda reklama bilan pastga tushing!",
+    "title4": "Avtomatlashtirish",
+    "text4": "Siz muhim masalalar bilan band bo'lganingizda, saytingiz mijozlarni “olib keladi”.",
+    "title5": "Sizga va mijozlaringizga qulay",
+    "text5": "Endi mijozlar “shunchaki tomosha qilish” uchun borishlari shart emas, ular nimani xohlashlarini bilishadi - siz nimani taklif qilishni bilasiz."
+  },
+  "productCard": {
+    "title1": "Vizitka sayti",
+    "text1": "O'zingizni yoki mahsulotingizni targ'ib qilish uchun shaxsiy veb-saytga muhtojmisiz? Ushbu parametr siz uchun, tez boshlash va oson boshlash.",
+    "title2": "Kichik onlayn-do'kon",
+    "text2": "Sizda allaqachon belgilangan mahsulotlar assortimenti bormi? Keyin sizga albatta veb-Vitrin kerak! Sizning mijozlaringiz mahsulotni to'g'ridan-to'g'ri veb-saytingizdan sotib olishlari mumkin, ular shaxsan kelishlari shart emas.",
+    "title3": "Korporativ veb-sayt",
+    "text3": "Sizning kompaniyangiz potentsial mijozlari va sheriklariga o'zlari haqida ko'proq ma'lumot berishni xohlaydimi? Ushbu parametr sayt allaqachon mavjud bo'lsa ham ishlaydi, lekin siz uni tubdan qayta ishlashni xohlaysiz.",
+    "title4": "Veb-saytingizni takomillashtirish va rivojlantirish",
+    "text4": "Agar sizda allaqachon rivojlanish yoki takomillashtirishni talab qiladigan veb - saytingiz bo'lsa, biz sizga yordam beramiz. Biz siz bilan yangi funktsiyalarni joriy etish yoki saytni noldan qayta ishlashni muhokama qilamiz va amalga oshiramiz."
+  },
+  "advCard": {
+    "title1": "Haqiqiy muammolar uchun echimlar",
+    "text1": "Biz murakkab funktsiyalarni yuklamaymiz, sizga kerak bo'lgan oddiy va tushunarli saytni yaratamiz, shunda siz qisqa vaqt ichida reklamalarni ishga tushirishingiz, sozlashingiz va mijozlar kelishni boshlashingiz mumkin!",
+    "title2": "Mobil qurilmalarga moslashish",
+    "text2": "Sizning orqangizda buyruq borligiga amin bo'lasiz: biz sizga saytni tushunishga yordam beramiz va o'zingizning resursingizni osongina boshqarishingiz uchun savollarga javob beramiz.",
+    "title3": "SEO va reklama",
+    "text3": "Biz sizning saytingizni qidiruvda ko'rsatishga yordam beramiz, shunda sizning xizmatingiz yoki mahsulotingizni sotib olishni yoki buyurtma qilishni istaganlar sizga murojaat qilishadi. Vakolatli SEO zamonaviy saytning juda muhim mezonidir.",
+    "title4": "Onlayn qo'llab-quvvatlash",
+    "text4": "Sizning orqangizda buyruq borligiga amin bo'lasiz: biz sizga saytni tushunishga yordam beramiz va o'zingizning resursingizni osongina boshqarishingiz uchun savollarga javob beramiz."
+  }
+}
